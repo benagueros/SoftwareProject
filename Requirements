@@ -1,0 +1,39 @@
+Requirements:
+
+1. New users can easily create an account
+2. Existing users just enter their log in information
+3. Whena user is done using the system they can logout or exit
+4. IF the user doesn't log out or exit the system needs to continue to run
+5. Memebers have the option to delete their account
+6. When an account is deleted all associated data is deleted
+7. The system can track workouts
+8. Workouts need to be defined by a type
+9. Workouts can be edited by users in case of a mistake
+10. Workouts are deletable in case of mistakes
+11. Workouts include a duration
+12. IF weights are used in a workout, the weight can be added
+13. Workout progress is trackable and eaily readable
+14. Progress is trackable over a week, month, and yearly basis
+15. System  tracks users eating habits
+16. Users can add meals
+17. A meal has a description that is entered by the user
+18. Macros (calories, carbs, etc.) are captured by the system 
+19. A meal can be edited in case of mistakes
+20. If a meal wasn't eaten or entered improperly it can be deleted
+21. System tracks a user's hydration
+22. Hydration information is editable in case of mistake
+23. Users can reset their passwords if they have forgotten them
+24. The system tracks users' sleep habits
+25. Sleep times are entered and recorded by the system
+26. An overall rating for sleep is entered by the user
+27. System keeps track of the user's weight trends
+28. User will regularly update their weight with workouts
+29. System provides BMI predictions based on past workouts
+30. Excercise stats are tracked and logged for statistical analysis
+31. meals and workout can be preplanned and checked off when completed
+32. Additional Information should exist in the system
+33. Additional information includes proper weightlifting/workout/eating/and sleeping habits
+34. Safety information is easily accessible to the user
+35. Additional information includes helpful tips to accomplishing workout/lifestyle goals
+36. System stores information to user's account
+
